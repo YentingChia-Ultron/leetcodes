@@ -24,6 +24,7 @@ if (n1>n2)
     return findMedianSortedArrays(nums2, nums1);
 ```
 #### Idea
+<img width="500" height="350" src="https://i.ibb.co/SwDKn05/q4.png">
 若兩個array合併，則會有 n1 + n2 個元素。
 其中，如果 n1 + n2 是奇數，中位數會是正中間的元素（第 k 個元素）。  
 如果是偶數，則為中間兩個元素（第 k 、 k + 1 個元素）之平均。  
