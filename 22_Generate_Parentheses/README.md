@@ -21,7 +21,7 @@ For example, given n = 3, a solution set is:
 與17題類似，先使用DFS的方法，找出所有可能性：  
 因為左右括弧必成對出現，所以當有一方等於0，另一方大於0時，則沒必要繼續往下找。  
 最終將停在雙方都等於0。  
-<img width="1368" height="503" src="https://i.ibb.co/vvpNvyY/DFS2.png">      
+<img width="1368" height="503" src="https://i.ibb.co/qpdf58S/DFS2.png">      
 **左邊是' ( '  ,  右邊是' ) '**  
 
 由上圖可以看出來，但凡遇到**L > R**的情況，括號的 format 就會不合法。  
