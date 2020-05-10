@@ -3,6 +3,10 @@ Solve some leetcode problems that I thought it's more challenging
 一些我覺得比較要多想一會兒的題目的解法
 
 ## 難度
+
++ [Medium](#Medium)  
++ [Hard](#Hard)  
+
 ### Medium
 [3. Longest Substring Without Repeating Characters](https://github.com/fhsi5794/leetcodes/tree/master//03_Longest_Substring_Without_Repeating_Characters)  
 [5. Longest Palindromic Substring ](https://github.com/fhsi5794/leetcodes/tree/master//05_Longest_Palindromic_Substring)  
