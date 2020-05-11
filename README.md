@@ -15,4 +15,5 @@ Solve some leetcode problems that I thought it's more challenging
 
 ### Hard
 [4. Median of Two Sorted Arrays](https://github.com/fhsi5794/leetcodes/tree/master//04_Median_of_Two_Sorted%20Arrays)  
-[10. Regular Expression Matching](https://github.com/fhsi5794/leetcodes/tree/master//10_Regular_Expression_Matching)  
+[10. Regular Expression Matching](https://github.com/fhsi5794/leetcodes/tree/master//10_Regular_Expression_Matching)    
+[23. Merge k Sorted Lists](https://github.com/fhsi5794/leetcodes/tree/master/23_Merge_k_Sorted_Lists)    
