@@ -11,7 +11,7 @@ public:
             int paliLen = max(getPalindromeLen(i, i, s), getPalindromeLen(i, i+1, s));
             if(maxlen<paliLen)
             {
-                maxlen = max(maxlen, paliLen);
+                maxlen = paliLen;
                 startPos = i-(maxlen-1)/2;
             }
         }     
