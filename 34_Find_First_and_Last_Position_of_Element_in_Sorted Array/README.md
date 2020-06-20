@@ -67,7 +67,6 @@ return {left, findRightEqual(nums, target, left)};
 這也表示，最接近但小於目標的這個元素的位置，定在最後找到的位置的左邊一個位置。  
 所以，如果我們將搜尋目標定為```target + 1```，最終找到的這個位置一定緊鄰著 target **最右邊**（假如我一開始有找到 target 最左邊）。    
 **注意**，這個方法只適用於整數！   
-注意，這個方法只適用於整數！  
 ```c
 int left = findLeftEqual(nums, target, 0);
 if(left >= nums.size() || nums[left] != target) return {-1, -1};
