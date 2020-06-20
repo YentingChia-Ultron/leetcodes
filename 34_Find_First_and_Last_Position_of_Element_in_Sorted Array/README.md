@@ -29,7 +29,7 @@ If the target is not found in the array, return ```[-1, -1]```.
 我們建立兩個 function，分別找出目標範圍的最左邊和最右邊。  
 一樣都是用 Binary Search 但在判斷的地方分別會有些不同：  
 
-**找左邊的函式 **   
+##### 找左邊的函式   
 ```c
 int findLeftEqual(const vector<int>& nums, const int target)
         ...
@@ -40,7 +40,7 @@ else
 ```  
 因為```(nums[mid] < target)```，l 和 r 最後會交會在**大於等於** target 的那個位置。  
 
-**找右邊的函式 **     
+##### 找右邊的函式     
 ```c
 int findRightEqual(const vector<int>& nums, const int target)
         ...
