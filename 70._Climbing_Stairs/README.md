@@ -40,7 +40,7 @@ Note: Given n will be a positive integer.
 
 |  n = 1  |  n = 2  |  n = 3  |  n = 4  |  n = i  |
 |:-------:|:-------:|:-------:|:-------:|:-------:|
-| ans = 1 | ans = 2 | ans = 3 | ans = 5 | ans = ans(i-1) + ans(i-2) |  
+| ans[1] = 1 | ans[2] = 2 | ans[3] = 3 | ans[4] = 5 | ans[i] = ans[i-1] + ans[i-2] |  
 
 ---
 
