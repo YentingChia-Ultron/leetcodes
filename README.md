@@ -3,9 +3,12 @@ Solve some leetcode problems that I thought it's more challenging
 一些我覺得比較要多想一會兒的題目的解法
 
 ## 難度
-
++ [Easy](#Easy)  
 + [Medium](#Medium)  
 + [Hard](#Hard)  
+
+### Easy
+[70. Climbing Stairs](https://github.com/fhsi5794/leetcodes/tree/master/70._Climbing_Stairs)  
 
 ### Medium
 [3. Longest Substring Without Repeating Characters](https://github.com/fhsi5794/leetcodes/tree/master//03_Longest_Substring_Without_Repeating_Characters)  
