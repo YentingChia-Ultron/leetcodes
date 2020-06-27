@@ -24,3 +24,4 @@ Solve some leetcode problems that I thought it's more challenging
 [23. Merge k Sorted Lists](https://github.com/fhsi5794/leetcodes/tree/master/23_Merge_k_Sorted_Lists)      
 [32. Longest Valid Parentheses](https://github.com/fhsi5794/leetcodes/tree/master/32_Longest_Valid_Parentheses)     
 [41. First Missing Positive](https://github.com/fhsi5794/leetcodes/tree/master/41._First_Missing_Positive)     
+[42. Trapping Rain Water](https://github.com/fhsi5794/leetcodes/tree/master/42._Trapping_Rain_Water)   (這題其實不難）    
