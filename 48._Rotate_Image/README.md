@@ -60,10 +60,10 @@ rotate the input matrix in-place such that it becomes:
 
 <img width="421" height="270" src="https://i.ibb.co/HPQPfwt/2020-06-28-22-13-40.png">    
 
-要做到這樣，有兩種方法：
+要做到這樣，下面提供兩種方法：
 
 ### method 1
-以左上到右下的對角線為軸翻轉，然後再將每個**row裡的元素**做reverse。   
+以左上到右下的對角線為軸翻轉（做transpose)，然後再將每個**row裡的元素**做reverse。   
 
 <img width="521" height="270" src="https://i.ibb.co/WKkgww1/00001.png">    
 
