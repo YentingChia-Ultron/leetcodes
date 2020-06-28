@@ -17,6 +17,7 @@ Solve some leetcode problems that I thought it's more challenging
 [22. Generate Parentheses](https://github.com/fhsi5794/leetcodes/tree/master/22_Generate_Parentheses)  
 [33. Search in Rotated Sorted Array](https://github.com/fhsi5794/leetcodes/tree/master/33._Search_in_Rotated_Sorted_Array)    
 [34. Find First and Last Position of Element in Sorted Array](https://github.com/fhsi5794/leetcodes/tree/master/34_Find_First_and_Last_Position_of_Element_in_Sorted_Array)  
+[48. Rotate Image](https://github.com/fhsi5794/leetcodes/tree/master/48._Rotate_Image)   
 
 ### Hard
 [4. Median of Two Sorted Arrays](https://github.com/fhsi5794/leetcodes/tree/master//04_Median_of_Two_Sorted%20Arrays)  
