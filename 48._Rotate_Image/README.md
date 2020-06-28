@@ -65,12 +65,12 @@ rotate the input matrix in-place such that it becomes:
 ### method 1
 以左上到右下的對角線為軸翻轉，然後再將每個**row裡的元素**做reverse。   
 
-<img width="421" height="170" src="https://i.ibb.co/WKkgww1/00001.png">    
+<img width="521" height="270" src="https://i.ibb.co/WKkgww1/00001.png">    
 
 ### method 2
 以右上到左下的對角線為軸翻轉，然後再將**每個row**做reverse。   
 
-<img width="421" height="170" src="https://i.ibb.co/86fN1cq/00001.png">    
+<img width="521" height="270" src="https://i.ibb.co/86fN1cq/00001.png">    
 
 
 
