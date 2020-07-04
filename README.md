@@ -20,6 +20,7 @@ Solve some leetcode problems that I thought it's more challenging
 [48. Rotate Image](https://github.com/fhsi5794/leetcodes/tree/master/48._Rotate_Image)   
 [49. Group Anagrams](https://github.com/fhsi5794/leetcodes/tree/master/49._Group_Anagrams)   
 [62. Unique Paths](https://github.com/fhsi5794/leetcodes/tree/master/62._Unique_Paths)  
+[64. Minimum Path Sum](https://github.com/fhsi5794/leetcodes/blob/master/64._Minimum_Path_Sum/README.md)  
 
 ### Hard
 [4. Median of Two Sorted Arrays](https://github.com/fhsi5794/leetcodes/tree/master//04_Median_of_Two_Sorted%20Arrays)  
