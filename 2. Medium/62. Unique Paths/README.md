@@ -36,7 +36,7 @@ Output: 28
 
 ## Solution
 
-這題跟爬梯子那（[70. Climbing Stairs](https://github.com/fhsi5794/leetcodes/tree/master/1.%20Easy/70.%20Climbing%20Stairs%20)  ）題很像，因為你只能往右或是往左走，所以你到達目的地的前面一步，一定會是在目的地的上方或是下方。  
+這題跟爬梯子那題（[70. Climbing Stairs](https://github.com/fhsi5794/leetcodes/tree/master/1.%20Easy/70.%20Climbing%20Stairs%20)  ）很像，因為你只能往右或是往左走，所以你到達目的地的前面一步，一定會是在目的地的上方或是下方。  
 所以，如果我們要找到到達目的地的走法，就必須把目的地上方和下方位置的走法總和起來。  
 以此類推，不斷往前找到其上方和下方的總和，一直到第一列或是第一行，因為他們的走法必定為 1 。   
 

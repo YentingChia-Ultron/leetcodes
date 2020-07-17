@@ -40,7 +40,9 @@ Note: Given n will be a positive integer.
 
 |  n = 1  |  n = 2  |  n = 3  |  n = 4  |  n = i  |
 |:-------:|:-------:|:-------:|:-------:|:-------:|
-| ans[1] = 1 | ans[2] = 2 | ans[3] = 3 | ans[4] = 5 | ans[i] = ans[i-1] + ans[i-2] |  
+| ans[1] = 1 | ans[2] = 2 | ans[3] = 3 | ans[4] = 5 | ans[i] = ans[i-1] + ans[i-2] |    
+
+若寫完這題，可以試者寫寫看 [62. Unique Paths](https://leetcode.com/problems/unique-paths/) ，他們很類似。  
 
 
 ---
