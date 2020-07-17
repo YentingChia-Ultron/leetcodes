@@ -20,7 +20,7 @@ Output: 6
 ``` 
 
 ## Solution
-這題其實可以當作[84. Largest Rectangle in Histogram]（https://leetcode.com/problems/largest-rectangle-in-histogram/）的進階題，所以如果沒有做過84題，建議可以先挑戰看看。  
+這題其實可以當作[84. Largest Rectangle in Histogram]（https://leetcode.com/problems/largest-rectangle-in-histogram/） 的進階題，所以如果沒有做過84題，建議可以先挑戰看看。  
 
 用84題的方法來看的話，其實這題可以直接把每一個row就當作一組```heights```，而他的高度就根據他的上面（前面的row、同一colum)所連續堆疊的```'1'```的高度。  
 以範例來講的，前兩組```heights```就會等於：  
